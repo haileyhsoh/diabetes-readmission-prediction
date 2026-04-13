@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+_train_split.csv
+_test_split.csv
+ag_training.log
+ag_models/
+ag_models.zip
+predictions.csv
+~$*
+*.tmp
